@@ -1,0 +1,13 @@
+# Archivos de compilación y ejecutables
+*.o
+*.out
+*.exe
+build/
+bin/
+
+# Archivos de configuración de VSCode
+.idea/
+cmake-build-debug/
+
+# Archivos de registro
+*.log
