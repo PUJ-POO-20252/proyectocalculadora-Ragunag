@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(untitled1 main.cpp
         Matematicas.cpp
-        Matematicas.h)
+        Matematicas.h
+        matriz_utils.cpp
+        matriz_utils.h)
